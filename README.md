@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @umutcanozer
+- 👀 I’m interested in software, language, anime, video games, religion and philosophy.
+- 🌱 I’m currently learning C#, Unreal Engine, Python.
