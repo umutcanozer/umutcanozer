@@ -39,7 +39,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umutcanozer&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umutcanozer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+![snake gif](https://github.com/umutcanozer/umutcanozer/blob/output/github-contribution-grid-snake.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=umutcanozer&icon=5&color=6)](https://visitcount.itsvg.in)
 
