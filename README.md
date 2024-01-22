@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutcanozer&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="umutcanozer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutcanozer&" alt="umutcanozer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutcanozer&theme=tokyonight" alt="umutcanozer" /></p>
 
 
 
