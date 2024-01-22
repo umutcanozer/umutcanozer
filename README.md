@@ -1,3 +1,7 @@
+<p align="center">
+    ![](ds.gif)
+</p>
+
 
 <h2 align="center">Hi! I'm a game developer and student.</h2>
 <h3>🚀 Here is my knowledge and skill sets:</h3>
