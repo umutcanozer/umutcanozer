@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/iamIahPLWmo4tGiyDz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bandainamco-dark-souls-2-ii-iamIahPLWmo4tGiyDz">via GIPHY</a></p>
 
 <h2 align="center">Hi! I'm a game developer and student.</h2>
 <h3>🚀 Here is my knowledge and skill sets:</h3>
