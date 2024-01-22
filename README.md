@@ -10,6 +10,7 @@
 
 <h3>📚 Areas I am currently working and will work in the future to enhance my skills:</h3>
 <p>-C++ programming language for game industry<br/>
+-Gaining knowledge in Unreal Engine 5<br/>
 -In-depth game mechanics, game AI and game design<br/>
 -Maybe gaining some knowledge and experience in Virtual Reality(VR)<br/>
 -Focusing on game development!<br/>
