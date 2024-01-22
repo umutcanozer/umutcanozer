@@ -1,9 +1,9 @@
 <h2 align="center">Hi! I'm a game developer and student.</h3>
 <h3>🚀 Here is my knowledge and skill sets:</h5>
-<p>-C# programming language
--Experience in Unity Game Engine and game development processes
--2D and 3D game design and development
--Project management and teamwork experience
+<p>-C# programming language<br/>
+-Experience in Unity Game Engine and game development processes<br/>
+-2D and 3D game design and development<br/>
+-Project management and teamwork experience<br/>
 </p>
 
 
