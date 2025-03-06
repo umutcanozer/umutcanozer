@@ -7,6 +7,7 @@
 <h2 align="center">Hi! I'm a game developer and student.</h2>
 <h3>🔭 Here is my knowledge and skill sets:</h3>
 <p>-C# programming language<br/>
+-C++ and SFML Library<br/>
 -Experience in Unity Game Engine and game development processes<br/>
 -2D and 3D game design and development<br/>
 -Project management and teamwork experience<br/>
@@ -15,10 +16,8 @@
 
 
 <h3>🌱 Areas I am currently working and will work in the future to enhance my skills:</h3>
-<p>-C++ programming language for game industry<br/>
--Gaining knowledge in Unreal Engine 5<br/>
--In-depth game mechanics, game AI and game design<br/>
--Maybe gaining some knowledge and experience in Virtual Reality(VR)<br/>
+<p>-Gaining knowledge in Unreal Engine<br/>
+-In-depth game physics and graphics programming<br/>
 -Focusing on game development!<br/>
 </p>
 
