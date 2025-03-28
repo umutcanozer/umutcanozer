@@ -16,9 +16,9 @@
 
 
 <h3>🌱 Areas I am currently working and will work in the future to enhance my skills:</h3>
-<p>-Gaining knowledge in Unreal Engine<br/>
--In-depth game physics and graphics programming<br/>
--Focusing on game development!<br/>
+<p>-Currently gaining knowledge in DirectX<br/>
+-Graphics programming<br/>
+-The next station is physics engine!<br/>
 </p>
 
 
