@@ -16,8 +16,8 @@
 
 
 <h3>Currently i'm working on:</h3>
-<p>-Currently developing a pc game in internship:<br/>
-  -Dependency injection with Zenject<br/>
+<h4>Developing a pc game in internship:</h4>
+<p>-Dependency injection with Zenject<br/>
   -Command, State, Strategy patterns<br/>
   -SOLID principles<br/>
   -Object pooling<br/>
