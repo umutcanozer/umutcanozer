@@ -14,7 +14,7 @@
 -Knowledge in DirectX and graphics programming
 </p>
 
-<p>-Currently gaining knowledge in Unreal Engine 5<br/>
+<p>-Currently developing a pc game in internship<br/>
 </p>
 
 
