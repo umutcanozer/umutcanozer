@@ -5,7 +5,7 @@
 
 
 <h2 align="center">Hi! I'm a game developer and student.</h2>
-<h3>🔭 Here is my knowledge and skill sets:</h3>
+<h3>Here is my knowledge and skill sets:</h3>
 <p>-C# programming language<br/>
 -C++ and SFML Library<br/>
 -Experience in Unity Game Engine and game development processes<br/>
@@ -14,7 +14,13 @@
 -Knowledge in DirectX and graphics programming
 </p>
 
-<p>-Currently developing a pc game in internship<br/>
+
+<h3>Currently i'm working on:</h3>
+<p>-Currently developing a pc game in internship:<br/>
+  -Dependency injection with Zenject<br/>
+  -Command, State, Strategy patterns<br/>
+  -SOLID principles<br/>
+  -Object pooling<br/>
 </p>
 
 
