@@ -18,7 +18,8 @@
 <h3>Currently i'm working on:</h3>
 <h4>Developing a pc game in internship:</h4>
 <p>-Dependency injection with Zenject<br/>
-  -Command, State, Strategy patterns<br/>
+  -Command, Observer, Strategy, Factory patterns<br/>
+  -State pattern and machines<br/>
   -SOLID principles<br/>
   -Object pooling<br/>
 </p>
