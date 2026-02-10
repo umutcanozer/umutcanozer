@@ -11,18 +11,11 @@
 -Experience in Unity Game Engine and game development processes<br/>
 -2D and 3D game design and development<br/>
 -Project management and teamwork experience<br/>
--Knowledge in DirectX and graphics programming
+-Knowledge in DirectX and graphics programming<br/>
+-Knowledge in Dependency Injection, Design Patterns, Optimization and Game Characters AI
 </p>
 
 
-<h3>Currently i'm working on:</h3>
-<h4>Developing a pc game in internship:</h4>
-<p>-Dependency injection with Zenject<br/>
-  -Command, Observer, Strategy patterns<br/>
-  -State machines<br/>
-  -SOLID principles<br/>
-  -Object pooling<br/>
-</p>
 
 
 
